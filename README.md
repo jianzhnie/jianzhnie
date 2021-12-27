@@ -1,6 +1,6 @@
 ![jianzhnie 的统计](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jianzhnie&repo=github-readme-stats)](https://github.com/jianzhnie/github-readme-stats)
+![![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jianzhnie&repo=AutoTimm)](https://github.com/jianzhnie/AutoTimm)
 
 ### Hi there 👋
 - I am jiazhnie.
