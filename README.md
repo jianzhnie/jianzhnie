@@ -1,9 +1,6 @@
 ### Hi there 👋
-![leafcoder 的统计](https://github-readme-stats.vercel.app/api?username=leafcoder&count_private=true&show_icons=true&theme=radical)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=leafcoder&layout=compact)
-
-<!--
-**leafcoder/leafcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![jianzhnie 的统计](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 
 - I am jiazhnie.
 - I read and think a lot. And sometimes I put them in a form of a painting or a piece of music. And when I need to catch a breath I go for a run.
