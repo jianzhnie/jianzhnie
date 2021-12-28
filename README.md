@@ -14,7 +14,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 - Developing nlp-toolkit [nlp-toolkit ](https://github.com/jianzhnie/nlp-toolkit)
 - Developing MultiModalTransformers [MultiModalTransformers ](https://github.com/jianzhnie/MultimodalTransformers)
-- Developing AutoML tools for DeepLearning Project and MacheLearning Project [](AutoTimm) [https://github.com/jianzhnie/AutoTimm](https://github.com/jianzhnie/AutoTabular)
+- Developing AutoML tools for DeepLearning Project and MacheLearning Project [AutoTimm](https://github.com/jianzhnie/AutoTimm) [AutoTabular](https://github.com/jianzhnie/AutoTabular)
 - Trying hard to reduce the Learning Machine Learning(LML) loss 😂
 - Coding everyday for better research engineering skill
 
