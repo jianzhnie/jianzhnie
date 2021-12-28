@@ -12,32 +12,24 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 ### I’m currently working on 🔭 
 
-- Developing nlp-toolkit [nlp-toolkit ](https://luda.ai/)
-- Developing MultiModalTransformers [MultiModalTransformers ](https://luda.ai/)
-- Developing AutoML tools for (https://luda.ai/)
+- Developing nlp-toolkit [nlp-toolkit ](https://github.com/jianzhnie/nlp-toolkit)
+- Developing MultiModalTransformers [MultiModalTransformers ](https://github.com/jianzhnie/MultimodalTransformers)
+- Developing AutoML tools for DeepLearning Project and MacheLearning Project [](AutoTimm) [https://github.com/jianzhnie/AutoTimm](https://github.com/jianzhnie/AutoTabular)
 - Trying hard to reduce the Learning Machine Learning(LML) loss 😂
 - Coding everyday for better research engineering skill
 
 ### I’m currently learning 🌱
 
 - Theoretical Machine Learning from the basic
-- Tensorflow 2.x
-- Research Environment in Cloud (GCP, AWS etc)
-- GO language study
-- Asset Investing (Portfolio, Risk Management, Macro-Finance etc)
+- Pytorch and Pytorch-lightning
+- Self-Supervised Learning [self_supervised](https://github.com/jianzhnie/self_supervised)
+- Transformer models (BERT,GPT, T5, VIT, SwinTransformer)
 
 ### How to reach me 📫
 
-- Email: [codertimo@gmail.com](mailto:codertimo@gmail.com)
-- CV: https://junseong.oopy.io/introduction
-- Blog: https://junseong.oopy.io/
-- Facebook: https://fb.com/codertimo
-- Linkdin: https://www.linkedin.com/in/codertimo/
-
-You can:
-- 📖  Read some of [my blogs](https://www.zhihu.com/column/fengnie) 
-- 📫 How to reach me: https://github.com/jianzhnie
+- 📫 Email: [jianzhnie@gmail.com](jianzhnie@gmail.com)
+- 📖 Blog: https://www.zhihu.com/column/fengnie
+- 📫 Linkdin: https://www.linkedin.com/in/jianzheng-nie-2749b7156/
 - ❤️ [Sponsor me on GitHub](https://github.com/sponsors/jianzhnie)
-
 
 Have an awesome day!
