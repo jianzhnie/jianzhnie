@@ -13,6 +13,6 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 You can:
 - 📖  Read some of [my blogs](https://www.zhihu.com/column/fengnie) 
 - 📫 How to reach me: https://github.com/jianzhnie
-- ❤️ [Sponsor me on GitHub](https://github.com/sponsors/curiousily)
+- ❤️ [Sponsor me on GitHub](https://github.com/sponsors/jianzhnie)
 
 Have an awesome day!
