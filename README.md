@@ -12,8 +12,6 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 You can:
 - 📖  Read some of [my blogs](https://www.zhihu.com/column/fengnie) 
-- 🔭 I’m currently working on Transformer models for both Text, Images and Tabular data.
-- 👯 I’m looking to collaborate on NLP and MultiModal machine learning
 - 📫 How to reach me: https://github.com/jianzhnie
 - ❤️ [Sponsor me on GitHub](https://github.com/sponsors/curiousily)
 
