@@ -2,7 +2,7 @@
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 
 ### Hi there 👋
-Hey, I am jianzhnie Thanks for stopping by!.
+Hey, I am jianzhnie, Thanks for stopping by!
 
 I am from a great country called China.
 
