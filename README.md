@@ -1,6 +1,8 @@
+### jianzhnie's github status
+
 ![jianzhnie 的统计](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=jianzhnie&row=1)
+
 ### Hi there 👋
 Hey, I am jianzhnie, Thanks for stopping by!
 
@@ -28,6 +30,8 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 - 📫 Email: [jianzhnie@gmail.com](jianzhnie@gmail.com)
 - 📖 Blog: https://www.zhihu.com/column/fengnie
 - 📫 Linkdin: https://www.linkedin.com/in/jianzheng-nie-2749b7156/
+- 💬 Ask me about: Statistics and Machine Learning.
 - ❤️ [Sponsor me on GitHub](https://github.com/sponsors/jianzhnie)
+
 
 Have an awesome day!
