@@ -1,7 +1,7 @@
 ### jianzhnie's github status
 
-![jianzhnie 的统计](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 
 ### Hi there 👋
 Hey, I am jianzhnie, Thanks for stopping by!
