@@ -1,7 +1,18 @@
-### jianzhnie's github status
+### jianzhnie's github status 
+
+I'm a machine learning engineer in ShenZhen. 
+
+![](https://komarev.com/ghpvc/?username=jianzhnie)
 
 ![](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
+
+
+[![jianzhnie's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jianzhnie&theme=radical)](https://git.io/streak-stats)
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Hi there 👋
 Hey, I am jianzhnie, Thanks for stopping by!
@@ -35,32 +46,3 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 
 Have an awesome day!
-
-
-### Hi there, I'm Dr. Hua Zhou 👋
-
-I'm a Professor in Biostatistics at University of California, Los Angeles (UCLA). 
-
-![](https://komarev.com/ghpvc/?username=Hua-Zhou)
-
----
-
-🧰 Hua's Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="Julia Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="LaTeX Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
-
----
-
-## &#x1f4c8; Hua's GitHub Stats
-
-[![Hua's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hua-Zhou&hide=java,javascript,html,css,limbo&theme=radical&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hua-Zhou&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Hua's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hua-Zhou&theme=radical)](https://git.io/streak-stats)
-
----
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
