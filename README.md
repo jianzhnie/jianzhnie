@@ -1,10 +1,11 @@
 ### Hi there, I'm Robin 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=jianzhnie&count_private=true&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 
 [![jianzhnie's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jianzhnie&theme=radical)](https://git.io/streak-stats)
 
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 ---
 
 ### Hi there 👋
