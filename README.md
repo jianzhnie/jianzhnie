@@ -7,8 +7,6 @@
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### Hi there 👋
 Hey, I am jianzhnie, Thanks for stopping by!
 
