@@ -8,6 +8,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jianzhnie&layout=compact)
 ---
 
+![](https://komarev.com/ghpvc/?username=jianzhnie&color=brightgreen)
+---
+
 ### Hi there 👋
 Hey, I am jianzhnie, Thanks for stopping by!
 
