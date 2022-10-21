@@ -31,6 +31,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 - Pytorch and Pytorch-lightning
 - Self-Supervised Learning [self_supervised](https://github.com/jianzhnie/self_supervised)
 - Transformer models (BERT,GPT, T5, VIT, SwinTransformer)
+- Reinformnet Learning (DQN, A2C, PPO, SAC, TD3 ...)
 
 ### How to reach me 📫
 
