@@ -36,6 +36,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 ### How to reach me 📫
 
 - 📫 Email: [jianzhnie@gmail.com](jianzhnie@gmail.com)
+- 📫 Homepage https://jianzhnie.github.io
 - 📖 Blog: https://www.zhihu.com/column/fengnie
 - 📫 Linkdin: https://www.linkedin.com/in/jianzheng-nie-2749b7156/
 - 💬 Ask me about: Statistics and Machine Learning.
