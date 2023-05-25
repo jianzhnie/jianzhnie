@@ -19,6 +19,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 ### I’m currently working on 🔭 
 
+- Developing the open source ChatGPT, Alpaca, Vicuna and RLHF Pipeline. [open-chatgpt](https://github.com/jianzhnie/open-chatgpt)
 - Developing nlp-toolkit [nlp-toolkit ](https://github.com/jianzhnie/nlp-toolkit)
 - Developing MultiModalTransformers [MultiModalTransformers ](https://github.com/jianzhnie/MultimodalTransformers)
 - Developing AutoML tools for DeepLearning Project and MacheLearning Project [AutoTimm](https://github.com/jianzhnie/AutoTimm)  | [AutoTabular](https://github.com/jianzhnie/AutoTabular)
@@ -39,6 +40,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 - 📫 Homepage: https://jianzhnie.github.io
 - 📫 Wiki: https://jianzhnie.github.io/machine-learning-wiki/
 - 📖 Blog: https://www.zhihu.com/column/fengnie
+- 🤗 Huggingface Org: https://huggingface.co/GaussianTech
 - 📫 Linkdin: https://www.linkedin.com/in/jianzheng-nie-2749b7156/
 - 💬 Ask me about: Statistics and Machine Learning.
 - ❤️ [Sponsor me on GitHub](https://github.com/sponsors/jianzhnie)
