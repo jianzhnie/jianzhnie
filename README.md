@@ -30,7 +30,6 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 - Theoretical Machine Learning from the basic
 - Pytorch and Pytorch-lightning
-- Self-Supervised Learning [self_supervised](https://github.com/jianzhnie/self_supervised)
 - Transformer models (BERT,GPT, T5, VIT, SwinTransformer)
 - Reinformnet Learning (DQN, A2C, PPO, SAC, TD3 ...)
 
@@ -38,7 +37,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 - 📫 Email: [jianzhnie@gmail.com](jianzhnie@gmail.com)
 - 📫 Homepage: https://jianzhnie.github.io
-- 📫 Wiki: https://jianzhnie.github.io/machine-learning-wiki/
+- 📫 Wiki: https://jianzhnie.github.io/llmtech/
 - 📖 Blog: https://www.zhihu.com/column/fengnie
 - 🤗 Huggingface Org: https://huggingface.co/GaussianTech
 - 📫 Linkdin: https://www.linkedin.com/in/jianzheng-nie-2749b7156/
