@@ -14,7 +14,7 @@
 
 Hey, I am jianzhnie, Thanks for stopping by!
 
-I work as a full-time Machine Learning engineer and write tutorials on basic and advanced topics (NLP, Reinforcement Lraening , Computer vision and code - lots of it).
+I work as a full-time Machine Learning engineer and write tutorials on basic and advanced topics (NLP, Reinforcement Learning , Computer vision and code - lots of it).
 
 I read and think a lot. And sometimes I put them in a form of a painting or a piece of music. And when I need to catch a breath I go for a run.
 
