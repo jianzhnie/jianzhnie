@@ -51,10 +51,6 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 - LLM System and Artificial General Intelligence
 - Large Scale Distribute Reinforcemnet Learning System
-- Theoretical Machine Learning from the basic
-- Pytorch and Pytorch-lightning
-- Transformer models (BERT,GPT, T5, VIT, SwinTransformer)
-- Reinformnet Learning (DQN, A2C, PPO, SAC, TD3 ...)
 
 ### How to reach me 📫
 
