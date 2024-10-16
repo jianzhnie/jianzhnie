@@ -27,7 +27,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 | [Deep-RL-Toolkit](https://github.com/jianzhnie/deep-rl-toolkit) | Deep reinforcemnt Learning Toolkit For Single Agent (DQN, Reinbow, DDPG, PPO, SAC, TD3…) |
 | [Deep-MARL-Toolkit](https://github.com/jianzhnie/deep-marl-toolkit) | Deep reinforcemnt Learning Toolkit For Multi Agent (VDN, Qmix, MADDPG, MAPPO, …) |
 | [RLZero](https://github.com/jianzhnie/RLZero)                | Monte Carlo Tree Search in General Sequential Decision Scenarios( AlphaZero， Muzero…) |
-| [HssdRL](https://github.com/jianzhnie/HssdRL)                | Handy and simple scaling of distributed reinforcement learning framework ( A3C, Ape-x, Impala, …) |
+| [ScaleRL](https://github.com/jianzhnie/ScaleRL)              | Handy and simple scaling of distributed reinforcement learning framework ( A3C, Ape-x, Impala, …) |
 | [CyberAttackSimulator](https://github.com/jianzhnie/CyberAttackSimulator) | A Reinforcement Learning (RL) simulation environment built for training and evaluating autonomous cyber attack & defense models on simulated networks. |
 
 ### Large language Models
