@@ -34,7 +34,7 @@ I read and think a lot. And sometimes I put them in a form of a painting or a pi
 
 | Code Repo                                                    | About                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [NLP-Toolkit ](https://github.com/jianzhnie/nlp-toolkit)     | NLPToolkit is a toolkit for NLP(Natural Language Processing) and LLM(Large Language Models) using Pytorch. |
+| [LLMToolkit ](https://github.com/jianzhnie/nlp-toolkit)     | NLPToolkit is a toolkit for NLP(Natural Language Processing) and LLM(Large Language Models) using Pytorch. |
 | [LLamaTuner](https://github.com/jianzhnie/LLamaTuner)        | Easy and Efficient Finetuning LLMs.                          |
 | [open-chatgpt](https://github.com/jianzhnie/open-chatgpt)    | Developing the open source ChatGPT, Alpaca, Vicuna and RLHF Pipeline. |
 | [awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets) | A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt. |
