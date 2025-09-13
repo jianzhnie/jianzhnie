@@ -12,8 +12,7 @@
 
 Hey, I'm jianzhnie. Thanks for stopping by!
 
-I'm an AI engineer and researcher focusing on LLMs, RLHF, reinforcement learning, computer vision, and production-grade code. 
-
+I'm an AI engineer focusing on LLMs, RLHF, Reinforcement Learning, and production-grade code. 
 
 ## What I’m working on 🔭
 
