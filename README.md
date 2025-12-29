@@ -20,12 +20,13 @@ I'm an AI engineer focusing on LLMs, RLHF, Reinforcement Learning, and productio
 
 | Code Repo | About |
 | --- | --- |
-| [LLMReasoning](https://github.com/jianzhnie/LLMReasoning) | Techniques and toolkit for reasoning with LLMs. |
+| [mini-vLLM](https://github.com/jianzhnie/mini-vllm) | A compact implementation of vLLM, designed to demystify the complexities of modern LLM serving systems. |
+| [ScaleTorch](https://github.com/jianzhnie/ScaleTorch) | A scalable PyTorch framework for training large models, Implemented 4D parallelism, including tensor parallelism, pipeline parallelism, sequence parallelism, and data parallelism. |
 | [LLMEval](https://github.com/jianzhnie/LLMEval) | A modular framework to evaluate LLMs across tasks and settings. |
+| [LLMReasoning](https://github.com/jianzhnie/LLMReasoning) | Techniques and toolkit for reasoning with LLMs. |
 | [LLMToolkit](https://github.com/jianzhnie/nlp-toolkit) | A PyTorch toolkit for NLP and LLM development. |
 | [LLamaTuner](https://github.com/jianzhnie/LLamaTuner) | Easy and efficient finetuning pipelines for LLMs. |
 | [Open-R1](https://github.com/jianzhnie/Open-R1) | Open-source DeepSeek-R1-style and RLHF training pipeline. |
-| [awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets) | Curated instruction/prompt datasets for training ChatLLMs. |
 
 ### Reinforcement Learning
 
@@ -46,9 +47,9 @@ I'm an AI engineer focusing on LLMs, RLHF, Reinforcement Learning, and productio
 
 ### I’m currently learning 🌱
 
-- RL for Reasoning and GRPO
 - LLM systems and AGI
 - Large-scale distributed RL systems
+- LLM Inference optimization
 
 ### How to reach me 📫
 
